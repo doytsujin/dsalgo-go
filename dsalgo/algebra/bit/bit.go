@@ -1,4 +1,4 @@
-package algebra
+package bit
 
 
 func BitLength(n int) int {
@@ -6,3 +6,9 @@ func BitLength(n int) int {
 	for 1 << l <= n { l++ }
 	return l
 }
+
+
+
+func Popcount(n int) int 
+
+

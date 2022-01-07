@@ -1,4 +1,4 @@
-package algebra
+package arithemetic
 
 
 func Max(a ...int) int {

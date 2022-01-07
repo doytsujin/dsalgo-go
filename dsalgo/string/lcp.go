@@ -3,7 +3,7 @@ package string
 
 
 
-func LCPArrayKasai(a, sa []int) (lcp []int) {
+func LongestCommonPrefixArrayKasai(a, sa []int) (lcp []int) {
 	n := len(a)
 	// n > 0 && len(sa) == n
 	rank := make([]int, n)
