@@ -1,7 +1,7 @@
-package fenwick
+package tree
 
 
-import "kagemeka/dsa/algebra/abstract"
+import "github.com/kagemeka/dsalgo-go/dsalgo/algebra/abstract"
 
 // TODO: cut below
 

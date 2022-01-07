@@ -1,7 +1,7 @@
-package segment
+package tree
 
 
-import "kagemeka/dsa/algebra"
+import "dsalgo/algebra"
 import "kagemeka/dsa/algebra/abstract"
 
 // TODO: cut below
